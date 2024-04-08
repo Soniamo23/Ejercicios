@@ -1,10 +1,14 @@
+MARKDOWN
 RESUMEN DE REACT
+
 En este trabajo vimos la implementacion del react.
 Para instalar nos ayudamos con el comando "npm create vite"
 React es una biblioteca realizada por facebook para hacer interfaces de usuario interactivas y dinamicas.
+
 Son utilizadas para crear aplicaciones de una sola pagina
 En base a ejercicios de una pagina llamada EXERCIMS poder introducir react a cada ejercicio
 Tenemos dos ejemplos uno de ellos es :
+
 const COLORS: string[] = ["black", "brown", "red", "orange", "yellow", "green", "blue", "violet", "grey", "white"];
 
 function colorCode(color: string): number {
