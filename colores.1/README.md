@@ -1,4 +1,4 @@
-Resumen de trabajo react
+RESUMEN DE REACT
 En este trabajo vimos la implementacion del react.
 Para instalar nos ayudamos con el comando "npm create vite"
 React es una biblioteca realizada por facebook para hacer interfaces de usuario interactivas y dinamicas.
